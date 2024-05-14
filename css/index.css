@@ -34,22 +34,20 @@ header nav .nav-right-section {
     display: flex;
     list-style: none;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
 }
 
 nav .nav-right-section a {
     margin-right: 2rem;
     color: #000000;
     cursor: pointer;
-    
+
 
 }
 
 nav .nav-right-section a:hover {
     text-decoration: underline;
 }
-
-
 
 nav .nav-right-section .menu-icon {
     background-image: url('https://cdn.icon-icons.com/icons2/3298/PNG/512/ui_menu_grid_icon_208820.png');
@@ -197,6 +195,6 @@ footer ul li a {
     cursor: pointer;
 }
 
-footer ul li a:hover{
+footer ul li a:hover {
     text-decoration: underline;
 }
